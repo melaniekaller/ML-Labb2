@@ -1,0 +1,9 @@
+{
+    "input_size": 784,
+    "hidden_size": 512,
+    "output_size": 10,
+    "batch_size": 64,
+    "learning_rate": 0.001,
+    "epochs": 10,
+    "model_path": "models/checkpoint.pth"
+}
